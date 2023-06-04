@@ -1,0 +1,7 @@
+#burning-sky #burning-sky-geography
+
+The national government of the Exarchate of Sindaire is offi cially run by a representative from Ragesia, but in practice the Exarch has limited power. The people of Sindaire — mostly humans with
+some caravans of nomadic gnomes — pay some taxes to Ragesia, but maintain their own armies and laws. They take mild comfort in knowing that, should Ostalin, their neighbors to the south, ever attempt to claim more land, Ragesia will come to their defense.
+Recently a vocal group of city mayors in the center of the nation began to protest the taxes to Ragesia, and refused to pay. Unlike the coastal cities, they little benefited from trade with Ragesian ships,
+and they called for the removal of the Exarch, a halforc woman named Horstea. Despite protests from the government ministers, the Exarch sent a plea to Ragesia, and Coaltongue’s army reponded, traveling
+by Torch to the central prairies to put down the rebellion. Sindaire has a long-established druidic tradition, coming from a time when a group of refugees fleeing a catastrophe in what is now Shahalesti settled in Sindaire’s warm forests, converting many of the locals through their generosity and their disciplined devotion to nobler ideals. Because lions are revered in these foreigner’s culture, lions now  fill the role of pets to the aristocracy, and guard dogs for the common folk.The capital city of Turinn lies on two sides of a long rock spur. The western side has ports on the sea, while the bulk of the city lies safe on the east.

@@ -1,0 +1,5 @@
+#burning-sky #non-player-character
+
+En øst-vinds munk spelunkerne først mødte i Toppens Skygge, diskuterende filosofi med vest-vind munken Jamira, dag og nat, dag efter dag. Han forsøgte at hjælpe spelunkerne med et uvirksomt kodeord til klosteret og med lidt information om Caela og de to ordensledere Pilus og Longinus.
+
+Da Ligevægts greb om byen blev brudt, var Bellok med i kampene mod den ragesiske hær, og han deltog i tilfangetagelsen af Signus ved bro-kampen, som desværre kostede Jamira livet. Siden er han påbegyndt et renselsesritual for at kunne få adgang til de to vindes kloster igen, men måske hans motivation ikke er stærk nok. Han lod sig overtale til at afbryde renselsen for at følge spelunkerne til den forbudte dal, og se om munkeordnerne virkelig skjuler noget der. I tre kampe har han været i livsfare, men vist en evne til at slippe ud selv når det ser sort ud- har han evnerne til at nå op på spelunkernes høje niveau og som dem se dødsfaren i øjnene og le af den, eller vil han vil han blive en af de mange døde i kampen mellem Ragesia og Seaquen?

@@ -13,7 +13,7 @@ let source, name =
     match fsi.CommandLineArgs |> List.ofArray with
     | [ _; _; s; n ] -> (resolve_path s), n
     | [ _; _; s ] -> (resolve_path s), (Path.GetFileNameWithoutExtension s)
-    | _ -> @"C:\code\repos\my\hinternet.dk\temp\Wikilog-20230601103105.xml", "Burning Sky"
+    | _ -> @"C:\code\repos\my\hinternet.dk\temp\Burning Sky.xml", "Burning Sky"
 
 let (|Regex|_|) (rx: Regex) str =
     let m = rx.Match(str)
@@ -139,6 +139,25 @@ let format p =
 
         yield ""
         yield! p.Body.Trim().Split('\n')
+
+        if (p.Frontmatter.Next <> ""
+            || p.Frontmatter.Previous <> "") then
+            yield ""
+            yield "| previous | next |"
+            yield "| --- | --- |"
+
+            let next =
+                sprintf "[%s](./%s.md)" p.Frontmatter.Next (title_case p.Frontmatter.Next)
+
+            let prev =
+                sprintf "[%s](./%s.md)" p.Frontmatter.Previous (title_case p.Frontmatter.Previous)
+
+            if (p.Frontmatter.Previous = "") then
+                yield sprintf "| | %s |" next
+            elif (p.Frontmatter.Next = "") then
+                yield sprintf "| %s | |" prev
+            else
+                yield sprintf "| %s | %s |" prev next
     }
 
 let write p =
@@ -173,7 +192,7 @@ let update (p: Page) =
                 Seq.filter almost titles
                 |> Seq.filter (fun s -> s.Length > t.Length && s.[t.Length] = ' ')
 
-            match Seq.tryHead candidates with 
+            match Seq.tryHead candidates with
             | Some h -> sprintf "[%s](./%s.md)" t (h.Replace(" ", "%20"))
             | _ -> m.Value
 
@@ -185,7 +204,9 @@ let update (p: Page) =
 pages |> Seq.map update |> Seq.iter write
 
 
-let x = pages |> Seq.find (fun x -> x.Title = "2019-05-09")
 
-update x 
+let x =
+    pages
+    |> Seq.find (fun x -> x.Title = "2019-05-09")
 
+update x
