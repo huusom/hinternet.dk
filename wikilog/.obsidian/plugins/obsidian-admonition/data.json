@@ -1,0 +1,169 @@
+{
+  "userAdmonitions": {
+    "embed-feat": {
+      "type": "embed-feat",
+      "color": "174, 107, 75",
+      "icon": {
+        "name": "star",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": false,
+      "noTitle": true,
+      "copy": false
+    },
+    "embed-ability": {
+      "type": "embed-ability",
+      "color": "188, 32, 32",
+      "icon": {
+        "type": "obsidian",
+        "name": "lucide-swords"
+      },
+      "command": false,
+      "injectColor": false,
+      "noTitle": true,
+      "copy": false
+    },
+    "inline-affliction": {
+      "type": "inline-affliction",
+      "color": "94, 0, 0",
+      "icon": {
+        "name": "viruses",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "embed-avatar": {
+      "type": "embed-avatar",
+      "color": "240, 61, 61",
+      "icon": {
+        "name": "monument",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": false,
+      "noTitle": true,
+      "copy": false
+    },
+    "embed-action": {
+      "type": "embed-action",
+      "color": "73, 72, 212",
+      "icon": {
+        "name": "wolf-pack-battalion",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": false,
+      "noTitle": true,
+      "copy": false
+    },
+    "embed-disease": {
+      "type": "embed-disease",
+      "color": "41, 102, 0",
+      "icon": {
+        "name": "disease",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "embed-item": {
+      "type": "embed-item",
+      "color": "254, 207, 108",
+      "icon": {
+        "name": "coins",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": false,
+      "noTitle": true,
+      "copy": false
+    },
+    "embed-ritual": {
+      "type": "embed-ritual",
+      "color": "202, 34, 169",
+      "icon": {
+        "name": "praying-hands",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": false,
+      "noTitle": true,
+      "copy": false
+    },
+    "inline-attack": {
+      "type": "inline-attack",
+      "color": "50, 70, 207",
+      "icon": {
+        "type": "obsidian",
+        "name": "lucide-sword"
+      },
+      "command": false,
+      "injectColor": false,
+      "noTitle": true,
+      "copy": false
+    },
+    "pf2-note": {
+      "type": "pf2-note",
+      "color": "228, 62, 79",
+      "icon": {
+        "name": "scroll",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": false,
+      "noTitle": true,
+      "copy": false
+    },
+    "pf2-summary": {
+      "type": "pf2-summary",
+      "color": "192, 135, 135",
+      "icon": {
+        "name": "book-open",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "statblock-pf2e": {
+      "type": "statblock-pf2e",
+      "color": "184, 157, 157",
+      "icon": {
+        "name": "dragon",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "9.3.1",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": false
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.fad005"
+}
