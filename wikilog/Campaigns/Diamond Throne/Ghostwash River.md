@@ -1,0 +1,3 @@
+#diamond-throne #log
+
+The ''Ghostwash'' is the largest river in the land, running from the [Bitter Peaks](Bitter%20Peaks.md) in the west to the [[Great Eastern Sea]]. It gains its name from the fact that the giants and the dramojh fought most of their fiercest battles near the source of the river. Before that, thousands of human, faen, and litorian slaves were slaughtered in bloody and horrid experiments there, while twice that number died building the citadels of the dramojh. Tales tell that the river carried the ghosts of all who died gently out to sea. Before the war between the giants and the dramojh, the Ghostwash was known simply as the Grand River.

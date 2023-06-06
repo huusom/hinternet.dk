@@ -1,0 +1,3 @@
+#diamond-throne #log
+
+Slangens hjerte var Dramojhenes hovedsæde, hvor de hårdeste kampe havde stået under den store krig. Kæmperne har ikke efterladt meget at se der, men det er stadig et sagnomspundet sted. Ifølge [Tarrashkar](Tarrashkar.md) ligger der et fort med en lille garnison. Efter sejren ødelagde kæmperne alle spor af deres fjenders tilstedeværelse, og brolagde pladsen med store flade sten. Tæt derpå ligger en akashic guild, der oplærer elever i de 8 retninger og 9 veje , en verrik filosofi der nærmest er uddød i deres hjemland. Guilden ligger i den eneste kendte dobbelt-node, inficeret med dramohj-minder og derfor forbudt at søge adgang til.

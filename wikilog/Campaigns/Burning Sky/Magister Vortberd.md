@@ -1,3 +1,3 @@
-#burning-sky #non-player-character
+#burning-sky #log #non-player-character
 
 Seaquenns magistrat (borgmester?), valgt på semi-demokratisk vis. Dværg, og muligvis pirat i sine unge dage.

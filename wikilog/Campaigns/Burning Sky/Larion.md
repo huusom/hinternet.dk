@@ -1,3 +1,3 @@
-#burning-sky #non-player-character
+#burning-sky #log #non-player-character
 
 Elverspion med talent for at udgive sig for gnomer og springe ud fra høje huse.

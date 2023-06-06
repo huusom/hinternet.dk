@@ -1,4 +1,4 @@
-#burning-sky #non-player-character
+#burning-sky #log #non-player-character
 
 Taranesti-elver med en stor ræv.
 Hun er en af meget få levende Taranstier Spelunkerne har set.

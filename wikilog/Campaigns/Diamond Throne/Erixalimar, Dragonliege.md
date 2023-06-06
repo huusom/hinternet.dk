@@ -1,0 +1,7 @@
+#diamond-throne #log #arcana-unearthed
+
+It would be incorrect to think of Erixalimar as anything less than a god, though once he was only a dragon — the greatest of all [[dragons]], but a dragon nonetheless. In ancient days, Erixalimar forged the treaties and pacts with the giants of the lands across the sea to the east. He oversaw the creation of the Dragon Conclave, a ruling body which still exists today to watch over and direct the actions of all dragonkind. Erixalimar explored the regions in the Mysterious West before any others and defeated the Demon of the Deeps that threatened that
+region millennia ago.
+The dragons of today believe that Erixalimar no longer maintains a corporeal presence in the world. He did not die, but instead ascended fully to godhood. According to their teachings,
+he still watches over all of his kind and their lands. It is in Erixalimar’s name that the dragons have returned to reclaim their ancestral lands.
+Only the dragons and the [[dracha]] worship Erixalimar. The ceremonies and complexities of dragon worship are unknown to most nondragons, but the dracha rites and sacraments are straightforward, as are all things dracha. In [[Pallembor]] and the dragon cities of the West stand grand temples to Erixalimar that are beyond human scale. The dracha, however, keep no temples, for they are always on the move in the service of dragonkind. Their priests carry necessary paraphernalia and sacraments with them wherever they roam.

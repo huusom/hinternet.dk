@@ -1,0 +1,5 @@
+#diamond-throne #log
+
+Rumors say that some of the [Gods Of The Denotholan](Gods%20Of%20The%20Denotholan.md) lie frozen forever north of the [Harrowdeep](Harrowdeep.md). The old [Council Of Magisters](Council%20Of%20Magisters.md) records that in Common Year 1422 they used magic to travel to “the top of the world,” where they found “hideous figures, each a thousand feet tall, covered in ice and frozen in positions of horror for all time.” The figures, according to the mages present, each matched some divine personage from the Denotholan.
+These gods may in fact be dead, or they may simply be imprisoned. Further exploratory missions have never been launched due to the dangers involved — the distance, the weather, and horrible monsters like remorhazes, frost worms, ice trolls, white puddings, and worse.
+The council estimated that the figures lay almost 2,000 miles north of [Ao-Manasa](Ao-Manasa.md). Such distances would make the frozen north a huge expanse. Some council members at the time believed that the ice was slowly marching southward.

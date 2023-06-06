@@ -1,4 +1,4 @@
-#burning-sky #burning-sky-geography
+#burning-sky #log #burning-sky-geography
 
 The national government of the Exarchate of Sindaire is offi cially run by a representative from Ragesia, but in practice the Exarch has limited power. The people of Sindaire — mostly humans with
 some caravans of nomadic gnomes — pay some taxes to Ragesia, but maintain their own armies and laws. They take mild comfort in knowing that, should Ostalin, their neighbors to the south, ever attempt to claim more land, Ragesia will come to their defense.

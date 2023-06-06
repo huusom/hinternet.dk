@@ -1,0 +1,3 @@
+#kingmaker #log #non-player-character
+
+Rødhåret kvinde i 30'erne, sådan delvist attraktiv. I stand til at falde i et med landskabet og forsvinde, nærmest for øjnene af en. Hun forlod Pitax by, da Irovetti havde konsolideret sin magt over landet og derefter knuste hendes kriminelle organisation. Men hun er ikke oprindeligt fra Pitax. Hun ønsker hævn over den opstyltede og magtbegærlige konge, og har således meget til fælles med Hexmarks ledelse. De har derfor indgået en alliance, hvor Illora sætter livet på spil ved at forlade sit skjulested mellem Pitax-floden og Thousand Voices og atter begive sig ind i hovedstaden.

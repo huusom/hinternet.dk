@@ -1,9 +1,7 @@
-#burning-sky #non-player-character
+#burning-sky #log #non-player-character
 
-Rantle er en tyv der får damerne til at svime og mændene til at bande misundeligt. Han har givet eventyrerne en hjælpende hånd, men også bedt om deres hjælp til at passe på hans søster, [Katrina](./Katrina.md).
-
-Da spelunkerne vender tilbage til Gate Pass som helte, modtager han dem med respekt. Rantle selv er blandt lederne af byens modstandsfolk, og selv om han nærmest dagligt sætter livet på spil, har han stadig sit velkendte smil der antyder at at finder sig selv uimodståelig og uovervindelig.
-
+Rantle er en tyv der får damerne til at svime og mændene til at bande misundeligt. Han har givet eventyrerne en hjælpende hånd, men også bedt om deres hjælp til at passe på hans søster, [Katrina](Katrina.md).
+Da spelunkerne vender tilbage til Gate Pass som helte, modtager han dem med respekt. Rantle selv er blandt lederne af byens modstandsfolk, og selv om han nærmest dagligt sætter livet på spil, har han stadig sit velkendte smil der antyder at at finder sig selv uimodståelig og uovervindelig.
 One particularly well-known rogue is a dashing
 scoundrel named Rantle. He came to fame because
 of an elaborate confidence game to steal from a female

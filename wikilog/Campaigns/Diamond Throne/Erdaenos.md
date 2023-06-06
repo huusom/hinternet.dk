@@ -1,0 +1,4 @@
+#diamond-throne #log
+
+Erdaenos once stood as a great city north of the [[Crystal Fields]], but it became too difficult to maintain its population during a yearslong drought. Erdaenos was all but abandoned. However, one of the city’s claims to fame was its fabulous library. The [[Library of Erdaenos]] held the largest collection of knowledge in the realm. Even the walls, floors, and ceilings of the library are covered in written records and lore. 
+With the help of a group of devout [[oathsworn]] dedicated to the cause, a handful of librarians, sages, and scholars maintains the vast library within the ruined, abandoned city. The leader of the cause and headmaster of the Library of Erdaenos is a devoted [[human]] [[champion]] named Hanrel Tannison. Knowledge-seeking pilgrims come to Erdaenos every year, despite the long and somewhat dangerous trek involved.

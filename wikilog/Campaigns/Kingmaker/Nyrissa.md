@@ -1,0 +1,5 @@
+#kingmaker #log #non-player-character
+
+Denne mægtige fe regerer en verden kaldet Thousandbreath, "De tusind åndedrag", som formentlig er en del af [Den Første Verden](Den%20Første%20Verden.md). Hun har tilsyneladende en forbindelse med [[Det Stjålne Land]], men også med sværdet [[Briar]]. Hendes historie er sørgelig, for hun lagde en storstilet plan om at hæve sig selv til at blive blandt [De Ældste](De%20Ældste.md), i alliance med sin elsker som allerede var en af dem. Men de ældste afviste dem og knuste deres planer. Den mægtige elsker mistede sit navn og blev eksileret til skyggernes verden, mens Nyrissa blev svækket, og den stjålne kraft blev formet til sværdet Briar. Nu er fedronningen kommet sig lidt, og hun søger efter sværdet som er en del af hende selv.
+Men Hexordenen har næsten udspillet hende, og overvundet hendes hære og allierede. Snart er hun helt alene.
+Men hvordan bekæmper man hende? Briar mener I skal fortsætte som I plejer. Men hendes magi er mægtig, og hendes skønhed er frygtindgydende for almindelige dødelige.

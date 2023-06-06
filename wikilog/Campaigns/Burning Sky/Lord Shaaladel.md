@@ -1,7 +1,6 @@
-#burning-sky #non-player-character
+#burning-sky #log #non-player-character
 
-Regenten af Shahalesti. Den kongelige familie består blot af Lord Shaaladel og hans datter, Shalosha. Han er en af de mest interessante spillere i den magtkamp der er ved at opstå i kejserens fravær.
-
+Regenten af Shahalesti. Den kongelige familie består blot af Lord Shaaladel og hans datter, Shalosha. Han er en af de mest interessante spillere i den magtkamp der er ved at opstå i kejserens fravær.
 Lord Shaaladel is a middleaged
 elf who rose from being a military commander
 to the nation’s ruler during the ascension of the

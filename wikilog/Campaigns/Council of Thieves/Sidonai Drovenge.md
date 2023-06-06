@@ -1,0 +1,4 @@
+#council-of-thieves #log #non-player-character
+
+The missing link, søn af [[Vassindio Drovenge]], og Fader til [[Chammady Drovenge|Chammady]] og [[Ecarddian Drovenge|Ecarddian]]. 
+Fra [Fluernes Moder](Fluernes%20Moder.md) har BAF fået historien om Sidonai. Han forudså (fejlagtigt) at fremtiden ville tilhøre halvdjævlene, da Thrune-huset overtog magten i [[Cheliax]]. Derfor bad han heksene i hekseskoven om at give ham en djævelsk søn, og de gav ham et stykke af [[Mammon]] som han indtog. For dette underskrev han en kontrakt, som krævede at sønnen skulle betale sin største kærlighed for sin største triumf. Den søn der blev født var Mammons, ikke Sidonais, og hans fader blev vred over hans fordækte plan. Sidonai blev landsforvist, og hans børn opdraget i [Tyvenes Råd](Tyvenes%20Råd.md), således at Ecarddian altid var gent væk. Efter sigende sendte Vassindio endda sine snigmordere efter Sidonai, så han døde i landsforvisningen.

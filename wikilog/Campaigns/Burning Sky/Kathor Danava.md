@@ -1,3 +1,3 @@
-#burning-sky #non-player-character
+#burning-sky #log #non-player-character
 
 En retfærdighedens ridder

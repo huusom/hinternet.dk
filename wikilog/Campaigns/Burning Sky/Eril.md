@@ -1,3 +1,3 @@
-#burning-sky #non-player-character
+#burning-sky #log #non-player-character
 
 Denne mand var en del af Lyceums første ekspedition til De To Vindes kloster. De andre er nu forsvundne. Han ser hjemsøgt ud, med selvskabte sår overalt på armene, han er bange for den underlige ro der hviler over byen, og frygter at den tager hans vilje fra ham igen. Det er uvist om han kan være til nogen nytte i sin nuværend etilstand, men han fortalte sin ekspeditions historie: De ankom til Eresh, men blev afvist af Caela ved klosteret og aldrig lukket ind, tilsyneladene på grund af et skænderi omkring munkenes eventuelle involvering i stormen der raserede Seaquen. Magikerne i gruppen mærkede at stormen over den forbudte dal var nærmest magen til den der ramte Seaquen. Så angreb rageserne, og gruppen blev ramt af en ro der passiviserede dem noget tid. Resten af gruppen drog atter op til klosteret, men Eril gad ikke. De kom aldrig tilbage.

@@ -1,0 +1,4 @@
+#council-of-thieves #log #geography
+
+Denne store vilde skov ligger tæt på [[Westcrown]], kun en 500 meter fra floden østlige bred, ud for byens nordligste ende. Skoven har altid ligget uudnyttet hen, et sted hvor kun de modigste og mest desperate jægere, tømmerfolk og samlere begav sig hen. Denne vildskab skyldes ikke mindst skovens hekse, som i mange godnathistorier har stjålet uartige børn ud af sengene eller forbandet uskyldige rejsende. Heksene magt over skoven stod uimodsagt i århundreder, indtil en dag for tyve år siden. Da ledte [[Vassindio Drovenge]] en hær af lejesoldater og håndgangne mænd mod Maddiketræet, som de brændte af, og heksene, som de også brændte af. Det siges at skoven nu kun har en enkelt heks tilbage, men til gengæld den ældste og mægtigste.
+Skoven strækker sig fra Blodsumpene i syd til fredelige marker mod nord, fra flodbredden mod vest til Troldeklo-kløften mod øst. Der er mere end en dagrejse på hver led for at komme igennem den.

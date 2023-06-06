@@ -1,0 +1,36 @@
+#diamond-throne #log
+
+In the dim mists of time, some legends tell of a very different world, where gods played a much more direct role in the fates of mortals, and there was contact between the east and west. The
+western continent was known as the Land of the Dragons, while the continent to the east was the Land of the Giants.
+This is the time of myth — the time when the legendary [[Denothol]] supposedly traveled among the planes and worlds to learn more of the gods and of creation. This is when the acts of the gods created volcanoes and earthquakes, and when they taught mortals to use magic (although many say the dragons did that) and how to grow crops and build cities. Some of this might be true, but even akashics have difficulty delving back so far. 
+The area now known as the Lands of the Diamond Throne has known many names: the realm, Terrakal, and, earliest of all, the Land of the Dragons. In those ancient days, it is said, the
+dragons ruled supreme, and the sky was dark with their wings. These wyrms were rivals of the giants across the sea to the east. The dragons were of many species, each belonging to one of
+two categories. There were the chromatic dragons, known for their selfishness and cruelty, and there were the nobler metallic dragons. Despite their various natures, the dragons lived in relative harmony with each other. A conclave of the greatest and oldest dragons ruled over their brethren, settling disputes regarding territory and other matters. At the head of the conclave was the demigod [[Erixalimar]], the greatest of the dragons. No dragon could
+think to disobey his rulings or edicts. No dragon would ever dare challenge him.
+Centuries passed in this fashion. It seemed that the dragon age would never come to an end.
+Then one fateful day, Erixalimar, after decades of parlaying with the giants, finally created a treaty that would keep the Hu-Charad to the east and dragons to the west forevermore. Afterward, the great dragon felt the need to get away, not only from giantish emissaries, but from his fellow dragons as well. He decided to fly farther west and discover what lay in that uncharted region.
+The chromatic dragons saw Erixalimar’s absence as an opportunity to further themselves and their agendas. They made a bid to take control of the Dragon Conclave. They failed, and what
+resulted was a terrible, cataclysmic war between the two dragon camps. The Land of the Dragons erupted in bitter conflict that threatened to destroy it. The conclave continued to attempt to
+sow peace, but it repeatedly failed. 
+Then a dragon named Nithogar rose to prominence and eventually joined the conclave. Some records say Nithogar was a black dragon, while others claim a red. A few suggest that he might have even been a copper or gold, although as dragons are understood today, that is difficult to believe. In any event, Nithogar dipped his claws into other realms and worlds as easily as a man might dip his hands into pools of water. He spent his days, his years, his centuries plying otherworldly spaces to see what he could find. Although it is certain that he found many things, it is only known that he found something called the [[Tenebrian Seeds]]. Most likely, the dragon encountered them hidden away in some hellish netherworld or locked within some prison
+plane or vault dimension. Regardless, he brought the tenebrian seeds to this world to study them.
+If only the dragons had not been embroiled in a war. If only Erixalimar had been there when Nithogar presented the tenebrian seeds to the conclave. But alas, they were, and he was not.
+Nithogar interested some of his chromatic brethren in the tenebrian seeds, for any dragon could see they were objects of great potential power and magic. Dragon eyes are keen in that
+way — power is like a color or shape to them, as visible and tangible as anything else they might see. Nithogar and his fellows discovered that they could implant portions of their own draconic essence within the tenebrian seeds. Although many of the conclave advised against it,
+Nithogar and several others experimented with a few of the seeds, infusing them with their “dragon-ness.” Soon thereafter, something emerged from the seeds.
+The dramojh were born.
+Part dragon and part otherworldly creature, the dramojh — meaning “dragon scions” — fascinated the conclave. The dragons found the dramojh, like themselves, to be quick studies with a real
+aptitude for magic. They taught their creations what they knew, and still the dramojh hungered for more. Moreover, the dragons sensed the dramojh’s thirst for battle and death-dealing, a thirst far beyond that of even the darkest-hearted dragon. The dramojh, they thought, would make excellent warriors. Without the metallics’ knowledge, the chromatics created more of the creatures. Soon there were thousands of terrible demon-dragons.
+The dramojh horde, wielding destructive and corrupt spells, washed over the already battle-weary metallic dragons. Though the dragons held out for years, it became clear that soon every
+last one of them would be dead. 
+But then Erixalimar returned. He found his homeland in flames, befouled dragon half-breeds slaying his folk. The great dragon brought peace to all dragonkind, but the dramojh would
+not be quelled. Erixalimar called upon nondraconic gods — the [Gods Of The Denotholan](Gods%20Of%20The%20Denotholan.md) — to aid him in exterminating the dramojh. In return for their help, he promised them the dragons
+would leave their land, and travel to the far West, where Erixalimar had spent these last many years. An agreement was reached, and the cooperative efforts of the gods wiped the dramojh from the world. Erixalimar kept his word and he led his people away. Only a few stragglers remained, hidden away in caves, in distant palaces, or deep under the earth. 
+As they left, Erixalimar declared that, when the ancient treaties came to an end, he and his people would return to reclaim their lands.
+The same period saw the birth of the [[runechildren]]. Throughout the Land of the Dragons, [[human]], [[faen]], [Verrik](Verrik%20History.md), and [[litorian]] heroes began finding themselves blessed with magical runes that appeared on their flesh and granted them supernatural powers. These unique individuals used their abilities to combat evil — at first, the dragons and the dramojh, but when they ceased to be a threat, the runechildren fought other dangers. At the time, sages believed the runes were a legacy the metallic dragons left behind to allow the fight against the
+chromatic dragons to continue. This theory was further validated millennia later when the [[giants]] and the [[sibeccai]] arrived from across the sea and discovered the runechildren. 
+They had no concept of such things in their own lands. But eventually, some of those giants and sibeccai living in the Lands of the Diamond Throne also took on the mantle of runechild.
+With the help of the runechildren, the Land of the Dragons became a safe and prosperous place and remained so for thousands of years. They called the land Terrakal, meaning simply “Land of the People.”
+{| align="center" 
+| <<< [Timeline](Timeline.md) , [The Rise Of Human Kingdoms](The%20Rise%20Of%20Human%20Kingdoms.md) >>>
+|}

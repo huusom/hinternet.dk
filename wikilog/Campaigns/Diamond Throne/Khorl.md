@@ -1,0 +1,4 @@
+#diamond-throne #log
+
+Khorl is a human city and provides an apt port for ships on their way to or returning from [Fallanor](Fallanor.md) to the south. It is a dangerous place, known to be the home of thieves and pirates. About 4,000 people dwell in Khorl, although once there were many more. Consequently, much of the city lies abandoned, occasionally inhabited by squatters, vermin, or worse: goblins and similar humanoids. The legitimate population is about half [[human]], a quarter [Verrik](Verrik%20History.md), and the rest [[giant]] and [[sibeccai]]. ''An-Redachan'' is the steward of Khorl, but rumor has it he was killed a few years ago and replaced with a doppelganger friendly to pirates.
+Just outside of Khorl, the realm’s first giantish fortress now stands in ruin. ''Du-Nor'' is a massive structure atop an impressive spire of rock. It is now reputed to be haunted, filled with monsters and bandits, or both.

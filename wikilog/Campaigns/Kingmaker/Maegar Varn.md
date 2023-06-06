@@ -1,0 +1,3 @@
+#kingmaker #log #non-player-character
+
+En potentiel sværdherre. Maegar er en stor mand med bølgende rødbrunt hår og skæg. Han fik til opgave at udforske området øst for Grønbæltet, bag [[Tors of Levenies]]. Det gjorde han med stor succes, og opbyggede byen [Varnhold](Varnhold.md) og bortjagede alskens uhyrer og goblins fra området. Derefter blev han involveret i en langvarig ufred med kentaurerne, og dette optog en stor del af hans og Varnholds kræfter. En dag gik det så skidt at han forsvandt fra Varnhold med alle byens beboere, og siden blev fundet af Order of the Hex i kyklopen Vordakais klippefæstning, død af at få sin hjerne spist.

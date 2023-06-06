@@ -1,4 +1,4 @@
-#burning-sky #burning-sky-organizations
+#burning-sky #log #burning-sky-organizations
 
 Gabal, a famed evoker who helped drive the
 Ragesians out forty years ago, maintains a school

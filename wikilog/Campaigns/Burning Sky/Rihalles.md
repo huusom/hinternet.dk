@@ -1,3 +1,3 @@
-#burning-sky #non-player-character
+#burning-sky #log #non-player-character
 
-En [Solei Palancis](./Solei%20Palancis.md), en del at Shalosha gruppe i Sjæleekkoets kloster. Dræbt af '''41'''.
+En [Solei Palancis](Solei%20Palancis.md), en del at Shalosha gruppe i Sjæleekkoets kloster. Dræbt af '''41'''.

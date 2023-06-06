@@ -1,3 +1,3 @@
-#burning-sky #non-player-character
+#burning-sky #log #non-player-character
 
-Denne ældre dame har en ungdommelig aura. Hun underviser på [Lyceum](./Lyceum.md), specielt i konjurationer. Hendes magiske dueller skulle være spektakulære tilløbsstykker.
+Denne ældre dame har en ungdommelig aura. Hun underviser på [Lyceum](Lyceum.md), specielt i konjurationer. Hendes magiske dueller skulle være spektakulære tilløbsstykker.

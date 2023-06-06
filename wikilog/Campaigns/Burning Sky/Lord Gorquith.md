@@ -1,7 +1,5 @@
-#burning-sky #non-player-character
+#burning-sky #log #non-player-character
 
-Adelsmand fra Sindaire.
-
-Anfører af oprøret mod Ragesia, som endte da Kejser Kultunge genindtog [[Korstull]] borgen. 
-
+Adelsmand fra Sindaire.
+Anfører af oprøret mod Ragesia, som endte da Kejser Kultunge genindtog [[Korstull]] borgen. 
 Er han virkelig den samme som nu er en kæmpe brun slimklump? Hvor dybt kan man synke?

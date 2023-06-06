@@ -1,0 +1,4 @@
+#kingmaker #log #geography
+
+En af Floddømmernes største byer, hjem for mange slags kunst og underholdning. Regeres af den unge (vel et par og fyrre :-)) [Kong Irovetti](Kong%20Irovetti.md).
+Landet ligger mellem Hexmark og den ældgamle skov [[Thousand Voices]] på den ene led, og mellem [Daggermark](Daggermark.md) og [[Numeria]] på den anden. Pitax City er den suverænt største by i landet, og overgås kun af de øvrige floddømmers hovedstæder. Den er befæstet, men ikke synderligt militariseret. Trods sin megen kunst og kultur, er landet også skadet af indbyggernes desperate kamp mod hinanden om at nå toppen af piedestalen. Ud over Pitax er der mindst to andre byer, [[Littletown]] og [[Mormouth]]. Derimellem ligger landets kerne, og de ydre områder er ikke specielt udviklede. Således er hovedtransportvejen vejene og floderne som følges af fra Rushlight og Littletown til Pitax City og videre til Daggermark.

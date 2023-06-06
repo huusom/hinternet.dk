@@ -1,6 +1,6 @@
-#burning-sky
+#burning-sky #log
 
-In this vision, a much younger Coaltongue and a small horde of orcs battle the gold dragon [Syana](./Syana.md) at the edge of a waterfall. A young gold dragon, [Trilla](./Trilla.md), is chained and
+In this vision, a much younger Coaltongue and a small horde of orcs battle the gold dragon [Syana](Syana.md) at the edge of a waterfall. A young gold dragon, [Trilla](Trilla.md), is chained and
 guarded, and one of the guards is Karedan, wearing a red tunic the same color as his current armor. A group of allies fighting with Syana are aided by an archon, while a bone
 devil fights at Coaltongue’s side.
 A shadowy figure wielding Rhuarc's black
@@ -33,6 +33,5 @@ the warlord as he brings down the Torch in
 spite. The blow connects with Trilla’s jaw, a tear drops from her eye and
 then flame consumes all. The vision ends
 abruptly, the song of the fey fades, and the
-room is left dark.
-
+room is left dark.
 The last thing you see is the tear of the young dragon, hanging in the air after the rest of the vision fades.

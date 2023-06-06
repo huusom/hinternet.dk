@@ -1,0 +1,4 @@
+#diamond-throne #log
+
+Like its sister-city, [Thayn](Thayn.md), Navael is an artisan’s haven, with large marketplaces and quite a number of guilds. Around the city, picturesque farms dot the fertile green fields of the northern plains. The road between Navael and [De-Shamod](De-Shamod.md) is well-traveled by merchant caravans.
+About 8,000 people live in Navael, more than half of them [[faen]]; the rest are [[giant]], [[human]], and [[sibeccai]], in that order. The steward is ''Ui-Narath'', a giant known for her love of the faen. In Navael, the giantish authorities clearly give the faen special treatment, fostering resentment among the humans and even the sibeccai. A gigantic statue of a dragon, made from steel and crystal, stands within Navael’s central square. It is so large that one can see its head from almost any spot in town.

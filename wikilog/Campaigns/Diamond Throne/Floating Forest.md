@@ -1,0 +1,4 @@
+#diamond-throne #log
+
+The Floating Forest is a strange place where the gigantic gassar trees grow. These mighty plants begin their gestation far beneath the surface so that, when they force their way up, they tear huge chunks of earth up with them. Other trees and plants continue to grow on these displaced earth “islands” in the air, supported in the tangles of the gassar. This multileveled forest is vast and thick as well as unbelievably tall. The Floating Forest’s ground level is spotted with lakes and waterways, filled from rainfall in places where the earth was torn away. Some islands are so big that rainwater pools fill atop them as well. Occasionally they overflow, creating small waterfalls from one island down to a lower one, or down to the ground. [[Troll]]s frequent the forest, often served by [[goblin]] slaves.
+[[Image:Floating_Forest.jpg]]

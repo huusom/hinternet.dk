@@ -1,0 +1,5 @@
+#diamond-throne #log #arcana-unearthed
+
+As mentioned in the [[Witch#Appendix: Witching Sites and Times|appendix]], certain sites are important or even sacred to [[witch]]es. These witching sites are usually isolated vales, still pools, undisturbed glens, or hilltops with a commanding view on starry nights. However, a witching site is not always linked to nature. Sometimes, a witching site can be found within a ruined castle or in the middle of an old city. These sites are
+sometimes called the “footprints of the gods,” because they correspond to areas that involved extensive activity by extremely powerful beings in the past. Thus, the [[Fields of Yallatonan]], some
+of the [[Vnaxian]] ruins, and the city of [Ravadan](Ravadan.md) contain a number of witching sites. Witches find these locales using the Sight. In a witching site, witch characters use their witchery powers to cast their spells at one level higher than their actual level. Level-dependent witchery abilities gain +1 level as well.

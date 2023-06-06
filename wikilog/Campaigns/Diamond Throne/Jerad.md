@@ -1,0 +1,4 @@
+#diamond-throne #log
+
+The streets of the frontier city of Jerad bustle with members of almost every race. It stands at the mouth of the Goat’s Road, a pass through the [Elder Mountains](Elder%20Mountains.md) that leads to [Khorl](Khorl.md). Jerad is a [[human]] city with a human name and a population of just over 5,000. Human herders, a few [Verrik](Verrik%20History.md) merchants and traders, and a hodgepodge of folk of other races and professions dwell here. [[Litorians]] may very well make up a larger percentage of Jerad than any other city. The humans of this area have always been on good terms with the local litorian tribes.
+The steward, an ambitious giant named Re-Tarranan, takes his job very seriously. The people of Jerad are fairly independent, though, so he maintains a force of sibeccai to enforce the law of the Diamond Throne. This fairly heavy-handed solution has brought the city some small amount of grief and trouble.
