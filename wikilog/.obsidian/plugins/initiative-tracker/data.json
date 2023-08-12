@@ -292,8 +292,8 @@
   "unconsciousId": "Unconscious",
   "version": [
     11,
-    1,
-    7
+    3,
+    1
   ],
   "canUseDiceRoll": false,
   "preferStatblockLink": true,
@@ -348,6 +348,7 @@
   },
   "hpOverflow": "ignore",
   "additiveTemp": false,
+  "rpgSystem": "dnd5e",
   "logging": false,
   "logFolder": "/",
   "useLegacy": false,
